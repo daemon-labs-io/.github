@@ -20,6 +20,6 @@ We cut through theoretical training by offering a unique two-tiered approach tha
 To maximise your learning and connect with our community of practitioners:
 
 - **Be prepared:** Be sure to run through our [prerequisites](https://github.com/daemon-labs-resources/prerequisites) before attending a workshop.
-- **Find workshops:** Find our next free, hands-on event on [Eventbrite](https://daemon-labs.eventbrite.com).
+- **Find workshops:** Find our next free, hands-on event on [Luma](https://luma.com/daemon-labs?utm_source=github-daemon-labs-resources).
 - **Join the community:** Join the conversation on [Slack](https://daemon-labs.slack.com/join/shared_invite/zt-3e3cdbmis-V7B96g2Ty1INqaSVswfZjQ#/shared-invite/email) to ask follow-up questions and network with top engineers.
 - **Client inquiries:** To discuss the accelerator edition for your team, please [contact us](https://www.dae.mn/contact-us).
