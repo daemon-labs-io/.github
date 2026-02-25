@@ -5,8 +5,9 @@ on:
 permissions:
   contents: read
   packages: read
+  issues: write
+  pull-requests: write
   statuses: write
-  checks: write
 jobs:
   linting:
     name: Linting
@@ -18,6 +19,6 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
       - name: Super linter
-        uses: super-linter/super-linter@2bdd90ed3262e023ac84bf8fe35dc480721fc1f2
+        uses: super-linter/super-linter@61abc07d755095a68f4987d1c2c3d1d64408f1f9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
