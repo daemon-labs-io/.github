@@ -1,9 +1,7 @@
 ---
 name: Linting
 on:
-  push:
-    branches-ignore:
-      - main
+  pull_request: null
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
